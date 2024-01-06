@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Lê Anh Quang
+* Student Name: Le Anh Quang
 * Student ID: 22BI13380
 
